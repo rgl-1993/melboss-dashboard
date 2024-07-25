@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": "f819",
+      "title": "Análisis de requisitos",
+      "description": "Se establecerán los requisitos que se han de cumplir para el desarrollo del producto",
+      "finishDate": "2024-07-28",
+      "pendingDays": "3"
+    },
+    {
+      "id": "501a",
+      "title": "Implementación",
+      "description": "Se implementa la solución acorde al diseño que se ha realizado.",
+      "finishDate": "2024-07-29",
+      "pendingDays": "4"
+    }
+  ]
+}
